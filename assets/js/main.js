@@ -6,7 +6,7 @@ $(document).ready(function() {
   var currentShirtColor = "black";
   var currentHoodyColor = "black";
   var currentHatColor = "black";
-  var totalBackGraphics = 6;
+  var totalBackGraphics = 10;
   var totalFrontGraphics = 10;
   var myCart = [];
   var url = "https://chancequick2.myshopify.com/cart/";
