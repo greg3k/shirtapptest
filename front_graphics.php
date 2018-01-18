@@ -96,7 +96,7 @@
       C494.933,316.954,471.962,372.617,434.253,414.874z"/>
   </g>
 </svg>
-<svg class="front" style="display: none;" data-order="3" data-value="Coloring Book Large" version="1.1" id="f2_xA0_Image_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 746.6 612.5" style="enable-background:new 0 0 746.6 612.5;" xml:space="preserve">
+<svg class="front" style="display: none;" data-order="3" data-value="Coloring Book Large" version="1.1" id="f2_xA0_Image_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
   <g>
     <g>
