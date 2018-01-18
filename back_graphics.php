@@ -816,13 +816,7 @@
 </g>
 </svg>
 
-<!-- 
- !
- !  ADDITIONS
- !
--->
-
-<svg class="back" style="display: none;" data-order="7" data-value="Strategy Sport Pic" version="1.1" id="Sport-Strategy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<svg class="back" style="display: none;" data-order="6" data-value="Strategy Sport Pic" version="1.1" id="Sport-Strategy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
   <g>
     <g>
@@ -869,7 +863,7 @@
 </g>
 </svg>
 
-<svg class="back" style="display: none;" data-order="8" data-value="Tennis" version="1.1" id="Sport-TennisPic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<svg class="back" style="display: none;" data-order="7" data-value="Tennis" version="1.1" id="Sport-TennisPic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
   <g>
     <g>
@@ -900,7 +894,7 @@
 </g>
 </svg>
 
-<svg class="back" style="display: none;" data-order="9" data-value="Trophy" version="1.1" id="Sports-TrophyPic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<svg class="back" style="display: none;" data-order="8" data-value="Trophy" version="1.1" id="Sports-TrophyPic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
   <g>
     <g>
@@ -952,7 +946,7 @@
 </g>
 </svg>
 
-<svg class="back" style="display: none;" data-order="10" data-value="Volleyball" version="1.1" id="Sports-Volleyball" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<svg class="back" style="display: none;" data-order="9" data-value="Volleyball" version="1.1" id="Sports-Volleyball" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
   <g>
     <path d="M509.568,222.003c-0.051-0.265-0.026-0.538-0.094-0.802C496.58,127.59,432.563,47.044,341.871,14.763
