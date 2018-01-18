@@ -334,7 +334,7 @@
   </g>
 </g>
 </svg>
-<svg class="front" style="display: none;" data-order="10" data-value="Sox" version="1.1" id="ChanceTheRapper-Handwritten_xA0_Image_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 792 500.9" style="enable-background:new 0 0 792 500.9;" xml:space="preserve">
+<!-- <svg class="front" style="display: none;" data-order="10" data-value="Sox" version="1.1" id="ChanceTheRapper-Handwritten_xA0_Image_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 792 500.9" style="enable-background:new 0 0 792 500.9;" xml:space="preserve">
   <g>
   	<path d="M392.2,488.4c-134.8-1-241.2-109.2-239.4-243.4C154.5,114.6,258.9,9.5,392.3,8.4c133.5,1.2,238.5,106.8,239.6,240.1
   		C630.7,382.3,525,487.4,392.2,488.4z M392.4,19C265.5,18.6,160.6,123.2,163,253c2.3,124.4,105,226.8,232.9,224.9
@@ -479,10 +479,10 @@
   		C383.8,216.5,382.7,214.6,381.1,212.4z M411,217.4c0.2-0.6,0.3-0.8,0.3-1c-0.1-8.7-0.8-17.4-3.2-25.9c-0.5-1.8-1-3.8-2.6-5.2
   		c-1.5-1.3-2.2-1.5-3.9-0.6c-3.2,1.6-4.3,4.7-5,7.7c-1.2,5-0.8,10,1.4,14.8C400.6,212.9,405,215.9,411,217.4z"/>
   </g>
-</svg>
-<svg class="front" style="display: none;" data-order="11" data-value="Blank" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+</svg> -->
+<!-- <svg class="front" style="display: none;" data-order="11" data-value="Blank" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
-</svg>
+</svg> -->
 <svg class="front-hat fadeSmooth" style="display: none" data-value="Coloring Book" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
    viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
   <g>
