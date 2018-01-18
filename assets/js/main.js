@@ -7,7 +7,7 @@ $(document).ready(function() {
   var currentHoodyColor = "black";
   var currentHatColor = "black";
   var totalBackGraphics = 6;
-  var totalFrontGraphics = 12;
+  var totalFrontGraphics = 10;
   var myCart = [];
   var url = "https://chancequick2.myshopify.com/cart/";
   var images = [
