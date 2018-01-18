@@ -19,7 +19,8 @@ body{
     height: 100%;
     background: #000;
     color: #fff;
-    background: url('../image/bg.png');
+    /*background: url('../image/bg.png');*/
+    background-color: #000;
     background-size: 100% 100%;
 }
 
